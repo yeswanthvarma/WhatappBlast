@@ -1,2 +1,2 @@
 # WhatappBlast
-This is Project which sends Bluck Whatapp massage 
+This is Project which sends Bluck Whatapp masssage
